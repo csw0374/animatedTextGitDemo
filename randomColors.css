@@ -1,0 +1,14 @@
+h1 {
+    background-color: black;
+    font-size: 15rem;
+    text-align: center;
+}
+
+.letter{ 
+    background-color: black;
+    transition: color 1000ms;
+}
+
+html{
+    background-color: black;
+}
