@@ -1,11 +1,11 @@
 h1 {
     background-color: black;
-    font-size: 15rem;
+    font-size: 12rem;
     text-align: center;
 }
 
 .letter{ 
-    background-color: black;
+    background-color: rgb(3, 22, 14);
     transition: color 1000ms;
 }
 
